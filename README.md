@@ -9,6 +9,7 @@ This repository contains simple Python practice scripts to build and strengthen 
 - **bmi_calculator.py**: Calculates Body Mass Index and classifies it as Underweight, Normal weight, Overweight, or Obese.
 - **customer_usage_aggregator.py**: Calculates average usage per region from sample usage data.
 - **customer_data_transformation.py**: Filters active customers and calculates their estimated monthly spend.
+- **even_odd_checker.py**: Checks if a given number is even or odd using a simple function.
 
 
   
