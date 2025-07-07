@@ -8,6 +8,8 @@ This repository contains simple Python practice scripts to build and strengthen 
 - **simple_interest_calculator.py**: Calculates simple interest given principal, rate, and time.
 - **bmi_calculator.py**: Calculates Body Mass Index and classifies it as Underweight, Normal weight, Overweight, or Obese.
 - **customer_usage_aggregator.py**: Calculates average usage per region from sample usage data.
+- **customer_data_transformation.py**: Filters active customers and calculates their estimated monthly spend.
+
 
   
 ## ✨ Why this exists
