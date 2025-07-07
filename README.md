@@ -6,6 +6,7 @@ This repository contains simple Python practice scripts to build and strengthen 
 
 - **temperature_converter.py**: Converts Celsius to Fahrenheit with an example usage.
 - **simple_interest_calculator.py**: Calculates simple interest given principal, rate, and time.
+- **bmi_calculator.py**: Calculates Body Mass Index and classifies it as Underweight, Normal weight, Overweight, or Obese.
 
 ## ✨ Why this exists
 
