@@ -5,7 +5,7 @@ This repository contains simple Python practice scripts to build and strengthen 
 ## 🚀 Files Included
 
 - **temperature_converter.py**: Converts Celsius to Fahrenheit with an example usage.
-- - **simple_interest_calculator.py**: Calculates simple interest given principal, rate, and time.
+- **simple_interest_calculator.py**: Calculates simple interest given principal, rate, and time.
 
 ## ✨ Why this exists
 
